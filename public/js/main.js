@@ -148,6 +148,6 @@ const renderOrderForm = () => {
 // }
 
 const orderButton = document.querySelector('.orderButton')
-const finishOrderButton = document.querySelector('.orderButton')
+// const finishOrderButton = document.querySelector('.orderButton')
 
 orderButton.addEventListener('click', () => renderOrderForm())
